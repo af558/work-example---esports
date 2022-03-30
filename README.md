@@ -1,6 +1,5 @@
 # work-in-progress---Esports
 [](https://github.com/af558/work-example---esports/commit/ebed943a4bac2403e42cede35291950689f9d885)
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Esports and it's growing Industry" 
