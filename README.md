@@ -1,21 +1,21 @@
-# work-example---esports
+# work-in-progress---Esports
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Esports and its grwoing Industry" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Esports and it's growing Industry" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:The_International_2018_(30302304258).jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q185372"> <!--  -->
+<param ve-entity eid="Q41264"> <!--  -->
+<param ve-entity eid="Q221092"> <!--  -->
+<param ve-entity eid="Q36600"> <!--  -->
 
-# Esports - A Growing Industry
+## Esports - A Growing Industry
 
 Although the commonly held perception of video games is that it is a waste of teenagers lives and a distraction from the 'real' world, a refuge for the socially inept
 I have recently been fascinated with a growing competitive scene and the grow of viewership and along with that sponsors. Many of us have a t some point argued with our parents about the validity and relevance of the hours we have poured into our favourite games.
@@ -23,7 +23,7 @@ I have recently been fascinated with a growing competitive scene and the grow of
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+
 
 ## Early days of 'becoming' Professional
 
@@ -33,10 +33,10 @@ potentially only having a minimal payout to 3rd; anyone placed below this would 
 of the past. 
 .[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Dota 2" 
+       description="artubr on Flickr, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/40/Electronic_sport.png">
 
 ## Modern Day Professionals
 
@@ -50,9 +50,12 @@ Some traditional sporting athletes have invested in esports, Jeremy Lin's owners
 and Galatasaray in Turkey; either sponsor or have complete ownership in esports teams. 
 While different from the regimens of traditional sports, esports athletes still have extensive training routines. Team Liquid, a professional League of Legends team, practice for a minimum of 50 hours per week and most play the game far more. In April 2020, researchers from the
 Queensland University of Technology found that some of the top esports players showed similar aspects of mental toughness as Olympic athletes. This training schedule for players has resulted in many of them retiring an early age. Players are generally in competition by their
-mid- to late-teens, with most retiring by their late-20s.
-
-
+mid- to late-teens, with most retiring by their late-20s. But the teamwork and refined skills these players possess are very niche and have been built up over many years of practice and by learning the techniques and breaking down the top competitors. Because of this the skill gap has steadily decreased leading to different regions around the world competing at a similar level and the teamwork eement becoming increasingly decisive leading to the hiring of coaches to further refine tactics and teamwork.
+<param ve-image 
+       label="Full booth at an event" 
+       description="Piotr Drabik from Poland, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/85/Go%C5%9Bcie_Intel_Extreme_Masters_%288465481816%29.jpg">
 
 ## Prize Pools and Rising Competition
 Due to the nature of games much of the initial practice and competition can occur online, allowing the best players from around the world to compete with each there at any hour of the day and allowing the best from England or France to compete against other skilled players from Russia
@@ -60,17 +63,13 @@ Germany. However due to the advantage of better connection this is usually locke
 3rd party software to gain an advantage the final stages of competition is usually held on a local network at a specified arena or location this also prevents the possibility that poor connection or worse equipment influencing the outcome of a tournament as the organisers can set up
 identical equipment. Often this is provided by a sponsor eager to market their products to the fans of an organisation, player or game and increase their sales.
 
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+
 
 ## DOTA 2
 This was my first experience of an esports competition as 'The International' is famed for having the largest prizepool in esports with it having risen from over $25,000,000 in 2018 to over $40,000,000 total in 2021. ALthough some disruption has been caused to the entire industry due to the Coronavirus pandemic this growth is hugely impressive. Especially as the amount is augmented by players of the game buying in-game items and cosmetics for their accounts. Due to the vast sum of money at play this has garnereed huge amounts of attention from more traditional news outlets as the headlines are almost written for you and with such a huge amount of potential revenue enticing more sponsors and personalities to invest in the growing industry. Even starting out at the, by comparison, modest $1,000,000 grand prize for the winners of the first International all the way back in 2011, as hoped by the games producer valve, this has been an intelligent marketing move to raise awareness around their game and has led to the growth of a fanbase.
 
-## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+
 
 # References
 
