@@ -62,6 +62,9 @@ identical equipment. Often this is provided by a sponsor eager to market their p
 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
+## DOTA 2
+This was my first experience of an esports competition as 'The International' is famed for having the largest prizepool in esports with it having risen from over $25,000,000 in 2018 to over $40,000,000 total in 2021. ALthough some disruption has been caused to the entire industry due to the Coronavirus pandemic this growth is hugely impressive. Especially as the amount is augmented by players of the game buying in-game items and cosmetics for their accounts. Due to the vast sum of money at play this has garnereed huge amounts of attention from more traditional news outlets as the headlines are almost written for you and with such a huge amount of potential revenue enticing more sponsors and personalities to invest in the growing industry. Even starting out at the, by comparison, modest $1,000,000 grand prize for the winners of the first International all the way back in 2011, as hoped by the games producer valve, this has been an intelligent marketing move to raise awareness around their game and has led to the growth of a fanbase.
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
@@ -71,4 +74,8 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: The International (Dota 2)](https://en.wikipedia.org/wiki/The_International_(Dota_2)#Early_years)
+[[^2]: [Wikipedia: Dota 2](https://en.wikipedia.org/wiki/Dota_2)
+[^3]: [Wikipedia: Esports](https://en.wikipedia.org/wiki/Esports)
+[^4]: [Why is esports quickly becoming a billion-pound industry?](https://www.hallandpartners.com/thinking/blog/why-is-esports-quickly-becoming-a-billion-pound-industry/)
+[^5]: [Wikipedia: The International (Dota 2)](https://en.wikipedia.org/wiki/The_International_(Dota_2)#Early_years)
