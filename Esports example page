@@ -6,15 +6,18 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Electronic_sport.png" label="artubr on Flickr, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"> 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/40/Electronic_sport.png" label="artubr on Flickr, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 
 # Sample visual essay
 
 Although the commonly held perception of video games is that it is a waste of teenagers lives and a distraction from the 'real' world, a refuge for the socially inept
 I have recently been fascinated with a growing competitive scene and the grow of viewership and along with that sponsors. Many of us have a t some point argued with our parents about the validity and relevance of the hours we have poured into our favourite games.
-
-Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoyment of the crowd at each subsequent performances, over the course of 18-20 months. This showed the vibrant health of the cultural side of London during the period, with the longevity of productions indicating a popularity with audience and manuscripts of the plays, surviving that although modern adaptations have been made. The contiuned popularity and the human element that clearly resonates with a wide audience remains unchanged despite modern changes. This has a parity with today where in a modernising and changing world the presentaton alters but the content that draws and interest and creates unity remains at its core largely unchanged. 
+## Inception of Esports
+A number of games are popular among professional competitors. The tournaments which emerged in the mid-1990s coincided with the popularity of fighting games and first-person shooters, genres which still maintain a devoted fan base. In the 2000s, real-time strategy
+games became overwhelmingly popular in internet cafés, particularly in Asia and Korea especially having dedicated Starcraft 2 tournaments, having crucial influence on the development of esports worldwide. Competitions exist for many titles and genres, amongst the 
+most popular games as of the early 2022 are Counter-Strike: Global Offensive, Call of Duty, League of Legends, Dota 2, Hearthstone, Super Smash Bros. Melee, StarCraft II and Overwatch. Each of which have their own respective dedicated fanbases although there is some 
+cross-over. With such huge audiences and the potential to market and control a new form of entertainment esports is backed to be one of the fastest growing industries.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 <param ve-image 
@@ -22,11 +25,14 @@ Samuel Pepys' diary features several entries detailing trips that he enjoyed not
 
 # Basic usage
 
-## London
+## Becoming Professional
 
-_The sites of theatres in London during 1600s_ This is just an image shown the multitude of sites across London which were part of the vibrantentertainment productions at this time. Due to this high density of troupes it is easier to understand the direct competition they had with each other.
-Especially as they shared one common audience and were aiming to attract the majority of the crowd,
-the life as a performer was like many other during this time day to day living. With the clear 
+Initially to be a 'pro gamer' you would have had to be amonst the top 1 or 2 players in your chosen game, as intial prize pools were minimal amounts with those placing at the top getting maybe up to £10,000. Certainly not a small amount but with uncertainty around your
+future and competitions infrequent to have considered buying a house or supporting a family seemed like a remote prospect, and that is assuming you were the number 1 player in your competition as the drop-off in prize-pools was severe with 2nd receiving a much lower amoun
+potentially only having a minimal payout to 3rd; anyone placed below this would likely have a payout amounting to nothing, especially if you had travelled to another city or country for your chance to compete. Thankfully these humble beginnings are starting to become a thing
+of the past. 
+
+
 <param ve-image 
        label="Theatres in London"
        description="A map depicitng the locale of theatres in London" 
