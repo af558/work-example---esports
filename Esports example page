@@ -52,19 +52,25 @@ mid- to late-teens, with most retiring by their late-20s.
        license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/London_map_showing_Shakespearean_theatres.png">
 
-## Map
+## Prize pools and rise of Competition
+Due to the nature of games much of the inital practice and competition can occur online, allowing the best players from around the world to comete with each ther at any hour of the day and allowing the best from England or France to comete against other skilled players from Russia
+Germany. However due to the advantage of better connection this is usually locked with 'regions' so those living in Europe only competing with others in Europe to try and maintain as leve a playing field as possible. However due to the ease with which it is possible to cheat and use
+3rd party software to gain an advantage the final stages of competition is usually held on a local network at a specified arena or location this also prevents the possibility that poor connection or worse euipment influencing the outcome of a tournament as the organisers can set up
+identical eqipment. ften this is provided by a sponsor eager to market their products to the fans of an organistion, player or game and increase their sales.
 
-The opposing theatre troupes within London were often in competition with each other, and so productions and the source material was jealously guarded with the popular productions being particularly in demand. This meant that skilled playwrights, who were often actors first, could ensure the fortune and success of their fellow performers. Indeed many productions ere written with the active troupe member refernced as their character in the initial 'scripts' or the characters name is replaced almost synonymously.
+
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Shakespearean Theatre 
- The King's Men is the acting company to which William Shakespeare (1564–1616) belonged for most of his career. Formerly known as the Lord Chamberlain's Men during the reign of Queen Elizabeth I, they became the King's Men in 1603 when King James I ascended the throne and became the company's patron.
-  
+##  
+ 
 
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       manifest="https://commons.wikimedia.org/wiki/File:The_International_2018_(30302304258).jpg"
+       description= 'The International, largest prizepool tournament'
+       license='Dota 2 The International, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons'
+       url='https://upload.wikimedia.org/wikipedia/commons/3/3d/The_International_2018_%2830302304258%29.jpg'>
+
