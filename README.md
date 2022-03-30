@@ -5,7 +5,7 @@
 
 <param ve-config 
        title="Esports and it's growing Industry" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:The_International_2018_(30302304258).jpg" 
+       banner="" 
        layout="vertical">
 
 
